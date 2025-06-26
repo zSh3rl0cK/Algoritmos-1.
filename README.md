@@ -1,4 +1,4 @@
-# Repositório de Algoritmos 2 em C++
+# Repositório de Algoritmos 1 em C++
 
 Este repositório contém diversas implementações de algoritmos fundamentais em C++, organizados em categorias como busca binária, ordenação e manipulação de ponteiros. Ele é ideal para estudantes, desenvolvedores e entusiastas que desejam aprender e praticar algoritmos eficientes.
 
